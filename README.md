@@ -20,6 +20,15 @@
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
+### Languages and Frameworks I'm Interested in Learning:
+
+- Python: For its versatility in web development, data science, and scripting.
+- Three.js: To explore creative 3D web visualizations.
+- React: To enhance front-end development skills for interactive web applications.
+- SCSS: For more advanced and efficient styling in web design.
+- PostgreSQL: To deepen my understanding of database management systems.
+- Rust: For its performance and safety in system programming.
+
 ### Projects:
 
 - [Student Manager](https://github.com/h2ving/studentmanager) - Java development course final project.
