@@ -23,9 +23,9 @@
 ### Projects:
 
 - [Student Manager](https://github.com/h2ving/studentmanager) - Java development course final project.
-- [Group Chat Project](https://github.com/h2ving/GroupChatProject) - Java development course group project.
+- [Group Chat Project](https://github.com/h2ving/GroupChatProject) - Java development course chat project.
 - [GraphQL Project](https://github.com/h2ving/graphql) - Data visualization using GraphQL and SVG.
-- [Forum Project](https://github.com/h2ving/f00rum) - Forum application with GoLang backend and dynamic JS.
+- [Forum Project](https://github.com/h2ving/f00rum) - Forum application with GoLang backend and dynamic vanilla JS frontend.
 
 ### Connect with me:
 
