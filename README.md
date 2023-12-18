@@ -35,6 +35,7 @@
 - [Group Chat Project](https://github.com/h2ving/GroupChatProject) - Java development course chat project.
 - [GraphQL Project](https://github.com/h2ving/graphql) - Data visualization using GraphQL and SVG.
 - [Forum Project](https://github.com/h2ving/f00rum) - Forum application with GoLang backend and dynamic vanilla JS frontend.
+- [Customer Support Page](https://github.com/h2ving/customersupport) - Customer support page for W3N conference workshop on "ChatGPT in business"
 
 ### Connect with me:
 
