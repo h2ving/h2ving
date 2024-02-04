@@ -4,7 +4,7 @@
 
 - 🔭 I completed a **Full-Stack Java Development** course in 2022.
 - 🌱 Currently studying at [kood/Jõhvi coding school](https://kood.tech) (Nov 2022 - Nov 2024).
-- 👨‍💻 Working on a **Social Network** project using GoLang, SQL, and Next.js.
+- 👨‍💻 Working on a **Social Network** project using GoLang, SQLite3, and Next.js.
 - 🌐 Fiddled with Tibia private servers during my middle school, which sparked my interest in programming.
 - 🥅 2024 Goals: Complete **Cybersecurity** and **AI modules** at kood/Jõhvi and land a job in one of those specializations.
 - 😄 Personal interests: Tinkering with Raspberry Pi projects, network configurations and photography (especially nature).
