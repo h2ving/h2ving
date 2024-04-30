@@ -4,9 +4,8 @@
 
 - 🔭 I completed a **Full-Stack Java Development** course in 2022.
 - 🌱 Currently studying at [kood/Jõhvi coding school](https://kood.tech) (Nov 2022 - Nov 2024).
-- 👨‍💻 Working on a **Social Network** project using GoLang, SQLite3, and Next.js.
+- 👨‍💻 Completed GoLang and JavaScript modules and now working on Cybersecurity and AI modules.
 - 🌐 Fiddled with Tibia private servers during my middle school, which sparked my interest in programming.
-- 🥅 2024 Goals: Complete **Cybersecurity** and **AI modules** at kood/Jõhvi and land a job in one of those specializations.
 - 😄 Personal interests: Tinkering with Raspberry Pi projects, network configurations and photography (especially nature).
 
 ### Languages and Tools:
@@ -28,6 +27,7 @@
 - [Forum Project](https://github.com/h2ving/f00rum) - Forum application with GoLang backend and dynamic vanilla JS frontend.
 - [Customer Support Page](https://github.com/h2ving/customersupport) - Customer support page for W3N conference workshop on "ChatGPT in business"
 - [Social-Network IrieSphere](https://github.com/ecce75/social-network/) - Built the backend for social-network project, deployed it on raspberry pi.
+- [Bomberman game](https://github.com/ecce75/bomberman) - JS final project - Bomberman game using our own mini-framework.
 
 ### Connect with me:
 
