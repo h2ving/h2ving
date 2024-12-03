@@ -1,16 +1,17 @@
 # Hi there, I'm Joosep - aka [h2ving](https://github.com/h2ving) 👋
 
-## I'm a Full-Stack Developer and Student!
+## I'm a Full-Stack Engineer!
 
 - 🔭 I completed a **Full-Stack Java Development** course in 2022.
-- 🌱 Currently studying at [kood/Jõhvi coding school](https://kood.tech) (Nov 2022 - Nov 2024).
-- 👨‍💻 Completed GoLang and JavaScript modules and now working on Cybersecurity and AI modules.
+- 🌱 Graduate of [kood/Jõhvi coding school](https://kood.tech) (29.November 2024).
+- 👨‍💻 Completed mandatory GoLang and JavaScript modules and specialization module in Cybersecurity.
 - 🌐 Fiddled with Tibia private servers during my middle school, which sparked my interest in programming.
 - 😄 Personal interests: Tinkering with Raspberry Pi projects, network configurations and photography (especially nature).
 
 ### Languages and Tools:
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -28,6 +29,7 @@
 - [Customer Support Page](https://github.com/h2ving/customersupport) - Customer support page for W3N conference workshop on "ChatGPT in business"
 - [Social-Network IrieSphere](https://github.com/ecce75/social-network/) - Built the backend for social-network project, deployed it on raspberry pi.
 - [Bomberman game](https://github.com/ecce75/bomberman) - JS final project - Bomberman game using our own mini-framework.
+- [Malware](https://github.com/h2ving/malware) - Cybersecurity module final project.
 
 ### Connect with me:
 
